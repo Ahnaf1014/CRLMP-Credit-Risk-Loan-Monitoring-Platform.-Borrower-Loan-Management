@@ -2,6 +2,7 @@
 A MySQL-based relational database system that simulates a simplified core banking loan monitoring platform. It manages borrowers, loans, EMI schedules, payments, delinquency tracking, and portfolio risk reporting using triggers and stored procedures.
 
 **Features**
+
 1️⃣ Borrower & Loan Management
 Maintain complete borrower profiles and manage multiple loans with proper status tracking (Active, Closed, Defaulted, Written-off).
 
