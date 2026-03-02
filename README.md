@@ -22,5 +22,7 @@ Generate reports such as Portfolio at Risk (PAR), collection rate, branch perfor
 Implement primary/foreign key constraints, triggers, and audit logs to ensure data consistency and traceability.
 
 **Folder Structure**
+
 docs/ – design docs & diagrams
+
 sql/ – SQL scripts
